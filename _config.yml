@@ -1,11 +1,11 @@
 # Site settings
-title: 赵晨Diary
+title: 赵晨Diary "#FF00FF"
 SEOTitle: 赵晨勃
 header-img: img/zch.jpg
 email: mc070908@163.com
 description: "这里是赵晨doctor 一个有big肚子的doctor"
 keyword: "doctor,teacher,big"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "baidu.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
