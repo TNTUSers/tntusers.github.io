@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "赵晨勃"
+author:       "那润"
 date:       2024-06-15 12:00:00
 header-style: text
 catalog:      true
