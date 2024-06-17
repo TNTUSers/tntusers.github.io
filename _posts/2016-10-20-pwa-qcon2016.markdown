@@ -5,11 +5,6 @@ subtitle:   "🎞  Slides:Progressive Web Apps, Make Web Great Again. (QCon Shan
 iframe:     "//huangxuan.me/pwa-qcon2016/"
 navcolor:   "invert"
 date:       2016-10-20
-author:     "Hux"
-tags:
-    - Slides
-    - Web
-    - PWA
 ---
 
 
