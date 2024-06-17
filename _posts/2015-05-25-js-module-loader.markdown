@@ -7,10 +7,6 @@ author:     "Hux"
 header-img: "img/post-bg-js-module.jpg"
 catalog: true
 published: false
-tags:
-    - 笔记
-    - Web
-    - JavaScript
 ---
 
 
