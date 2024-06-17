@@ -6,10 +6,6 @@ iframe:     "//huangxuan.me/pwa-in-my-pov/"
 nav-style:  "invert"
 date:       2016-06-05
 author:     "Hux"
-tags:
-    - Slides
-    - Web
-    - PWA
 ---
 
 
