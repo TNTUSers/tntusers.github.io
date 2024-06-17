@@ -5,10 +5,6 @@ subtitle: "Wechat Mini-Program vs. the Web, a UX comparison"
 author: "Hux"
 header-img: ""
 header-bg-css: "linear-gradient(to right, #24b94a, #38ef7d);"
-tags:
-  - Web
-  - 微信
-  - UX/UI
 ---
 
 > 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/24782839)，转载请保留链接 ;)
