@@ -8,9 +8,6 @@ header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
-tags:
-    - Web
-    - PWA
 ---
 
 <!-- Chinese Version -->
