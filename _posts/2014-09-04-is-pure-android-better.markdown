@@ -5,10 +5,6 @@ subtitle:   ""
 date:       2014-09-04 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-android.jpg"
-tags:
-    - 知乎
-    - 产品
-    - UX/UI
 ---
 
 > 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/25104721/answer/30108886)
