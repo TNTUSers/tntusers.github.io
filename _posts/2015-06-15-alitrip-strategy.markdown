@@ -6,9 +6,6 @@ date:       2015-06-15
 author:     "Hux"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
-tags:
-    - 产品
-    - 阿里
 ---
 
 ## 前言
