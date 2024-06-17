@@ -6,8 +6,6 @@ date:       2015-04-14
 author:     "Hux"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
-tags:
-  - 笔记
 ---
 
 > This document is not completed and will be updated anytime.
